@@ -1,0 +1,19 @@
+.transaction {
+  border: 1px solid #ccc;
+  border-spacing: 3px;
+  table-layout: fixed;
+  width: 350px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+th {
+  background: #bcebdd;
+  color: rgb(22, 17, 17);
+  padding: 10px 20px;
+}
+
+.typeValue {
+  background: #f5d7bf;
+  padding: 10px;
+}

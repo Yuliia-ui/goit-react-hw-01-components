@@ -1,0 +1,37 @@
+.friendList {
+  width: 300px;
+  padding: 0;
+  margin: 0 auto;
+  list-style: none;
+  overflow: hidden;
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  align-items: center;
+}
+
+.name {
+  margin-left: 10px;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.online {
+  display: block;
+  margin-right: 15px;
+  background-color: rgb(12, 131, 12);
+  width: 15px;
+  height: 15px;
+  border-radius: 20px;
+}
+
+.ofline {
+  display: block;
+  margin-right: 15px;
+  background-color: rgb(185, 29, 42);
+  width: 15px;
+  height: 15px;
+  border-radius: 20px;
+}
